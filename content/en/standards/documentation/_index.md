@@ -20,7 +20,8 @@ Documentation of a model, together with the provided model code, needs to facili
 
 We suggest three main categories of documentation:
 - Metadata
-- Methods and theoretical foundation
+- Internal methods and theoretical foundation
+- External communication, API, data input and output
 - Implementation
 
 ## Minimal Documentation Standards
@@ -49,7 +50,12 @@ We suggest three main categories of documentation:
 - Spatial dimensionality, resolution, extent, grid type if relevant
 - Limitations, domain ranges: What is this model specifically NOT intended to do.
 
-### Implementation 
+#### Implementation 
+
+(how your put the theory into computer code)
+
+### External communication, API, input and output variables
+
 
 #### Input/Output and Variables 
 - Key input parameters and their values and domain ranges and units (minimum input requirements for model operation and default values, where appropriate) 
@@ -59,6 +65,8 @@ We suggest three main categories of documentation:
 - Key output variables and domain ranges
 - Provide sample runs that illustrate the dynamics of the model.
 
+### Usage and use cases
+
 #### Validating installation
 - Provide sample input and output files, including run script, such as a cookbook or benchmark
 
@@ -67,6 +75,8 @@ We suggest three main categories of documentation:
 - Describe how calibration and evaluation to verify the accuracy of the model were performed. 
 - List of publications on evaluation, uncertainty, sensitivity analyses for your model
 - Describe or provide benchmarks for validation of your model
+
+#### Use cases
 
 ## Ideal Documentation Standards
 
