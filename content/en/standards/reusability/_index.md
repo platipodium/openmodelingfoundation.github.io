@@ -84,6 +84,11 @@ OMF may consider building some github template repositories or scaffolding for c
 - [Software Deposit Guidelines from SSI](https://softwaresaved.github.io/software-deposit-guidance/HowToDescribeSoftwareDeposit.html)
 - [Proposed Standards for Peer-Reviewed Publication of Computer Code](https://doi.org/10.2134/agronj2015.0481)
 - find example codebases that meet minimal and ideal standards 
+- FORCE11 FAIR Reusability 
+  R1. meta(data) have a plurality of accurate and relevant attributes.
+  R1.1. (meta)data are released with a clear and accessible data usage license.
+  R1.2. (meta)data are associated with their provenance.
+  R1.3. (meta)data meet domain-relevant community standards.
 
 ## Issues / Errata
 
